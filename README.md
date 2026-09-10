@@ -1,7 +1,8 @@
 # flagrantesOOo
-OpenOffice.org Macros for mail merge documents
 
-## AVISO! O texto a seguir também é antigo e pode estar desatualizado. s/OpenOffice/LibreOffice/g
+OpenOffice.org Macros: mail merge police reports (pt_BR).
+
+**AVISO!** *O texto a seguir foi escrito em 2010 e pode estar desatualizado. s/OpenOffice/LibreOffice/g*
 
 ## FLAGRANTES OpenOffice.org
 
@@ -18,7 +19,7 @@ Pré-requisitos: Java instalado e funcionando em conjunto com o OpenOffice.org.
 
 Descompate o arquivo .zip em sua pasta de trabalho.  Preserve a estrutura dos diretórios descompactados, caso contrário as macros não vão funcionar.
 
-Abra o OpenOffice e registe o Banco de Dados "FLAGRANTES.odb":
+Abra o OpenOffice e registe o Banco de Dados **"FLAGRANTES.odb"**:
   - Menu "Ferramentas" - "Opcoes" - "OpenOffice.org BASE" - "Banco de Dados". Clique em "NOVO", escolha o arquivo "FLAGRANTES.odb" que está na mesma pasta do LeiaMe.odt (este documento).
 
 Configure o diretório descompactado como "seguro" para execução de macros:
@@ -30,17 +31,20 @@ Após o registro do Banco de Dados e das Macros, o programa estará pronto para 
 
 ## INSTRUÇÕES DE USO
 
-1. Abra o menu principal: arquivo "FlagrantesOpenOffice.odt" (para facilitar o acesso ao documento, crie um atalho para este arquivo em sua área de trabalho). Cada botão abre um formulário diferente e o último botão gera o documento final. 
+1. Abra o menu principal: arquivo **"FlagrantesOpenOffice.odt"** (para facilitar o acesso ao documento, crie um atalho para este arquivo em sua área de trabalho). Cada botão abre um formulário diferente e o último botão gera o documento final. 
 2. Preencha os formulários "DP" (dados da Delegacia) e "Data" (hora, dia, mês e ano). Clique em  “Salvar Dados” após o preenchimento dos campos. O formulário “DP” pode ser preenchido somente quando necessário. Altere o campo “hora” do formulário “Data” a cada flagrante. Para apagar todos os campos, clique em “Limpar Campos”. O OpenOffice vai perguntar se deseja realmente exluir o registro. Confirme a exclusão. 
 3. Preencha os formulários "Testemunhas" (condutor e testemunhas), "Delito" (tipo de delito e objetos), “Especialistas" (peritos, constatadores e avaliadores) e "Oficios" (número dos ofícios) a cada flagrante.  Salve os dados após o preenchimento dos formulários.
 4. Preencha os formulários "Conduzidos" e "Vitimas". Registre quantos conduzidos ou vítimas forem necessários. As vítimas e os conduzidos devem ser registrados sequencialmente, começando pelo número '1'. Para navegar, incluir ou apagar registros, use a Barra de Navegação (figura abaixo). Lembre-se de sempre salvar os dados após o preenchimento dos formulários.
+
+    ![db buttons](/acoes_bd.png)  
+ 
 5. Clique no último botão para gerar o Inquérito Policial. Aguarde alguns instantes (1 ou 2 minutos).
-6. O arquivo será salvo no diretório "Saida" e depois será aberto para edição. 
+6. O arquivo será salvo no diretório **"Saida"** e depois será aberto para edição. 
 7. Leia e verifique o arquivo, faça as correções necessárias e salve antes de imprimir. Dica: use o corretor ortográfico, use o Ctrl+F para encontrar/substituir palavras. 
 
 ## IMPORTANTE!
 
-A estrutura das pastas é importante para o funcionamento das Macros. Qualquer alteração na estrutura dos diretório impedirá o correto funcionamento da automatização. Não apague e não renomeie  os arquivos da pasta “Modelos”.
+A estrutura das pastas é importante para o funcionamento das Macros. Qualquer alteração na estrutura dos diretório impedirá o correto funcionamento da automatização. Não apague e não renomeie os arquivos da pasta **“Modelos”**.
 
 Se não houver conduzidos, não será possível a geração do IP.
 
@@ -61,10 +65,10 @@ Após a geração do documento, será necessário efetuar ajustes manuais na for
 
 Direitos Autorais Reservados (c) 2010 Fábio Minami <fminami@gmail.com>
 
-Esta biblioteca é Software Livre; você pode redistribuí-la e/ou modificá-la sob os termos da Licença Pública Geral Menor do GNU conforme publicada pela Free Software Foundation; tanto a versão 2.1 da Licença, ou (a seu critério) qualquer versão posterior.
+*Esta biblioteca é Software Livre; você pode redistribuí-la e/ou modificá-la sob os termos da Licença Pública Geral Menor do GNU conforme publicada pela Free Software Foundation; tanto a versão 2.1 da Licença, ou (a seu critério) qualquer versão posterior.*
 
-Esta biblioteca é distribuída na expectativa de que seja útil, porém, SEM NENHUMA GARANTIA; nem mesmo a garantia implícita de COMERCIABILIDADE OU ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA. 
-Consulte a Licença Pública Geral Menor do GNU para mais detalhes.
+*Esta biblioteca é distribuída na expectativa de que seja útil, porém, SEM NENHUMA GARANTIA; nem mesmo a garantia implícita de COMERCIABILIDADE OU ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA.*
 
+*Consulte a Licença Pública Geral Menor do GNU para mais detalhes.*
 
-Você deve ter recebido uma cópia da Licença Pública Geral Menor do GNU junto com esta biblioteca; se não, escreva para a Free Software Foundation, Inc., no endereço 59 Temple Street, Suite 330, Boston, MA 02111-1307 USA. 
+*Você deve ter recebido uma cópia da Licença Pública Geral Menor do GNU junto com esta biblioteca; se não, escreva para a Free Software Foundation, Inc., no endereço 59 Temple Street, Suite 330, Boston, MA 02111-1307 USA.* 
