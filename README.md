@@ -63,7 +63,7 @@ Após a geração do documento, será necessário efetuar ajustes manuais na for
 
 ## LICENÇA DE USO
 
-Direitos Autorais Reservados (c) 2010 Fábio Minami <fminami@gmail.com>
+Direitos Autorais Reservados (c) 2010 Fábio Minami
 
 *Esta biblioteca é Software Livre; você pode redistribuí-la e/ou modificá-la sob os termos da Licença Pública Geral Menor do GNU conforme publicada pela Free Software Foundation; tanto a versão 2.1 da Licença, ou (a seu critério) qualquer versão posterior.*
 
