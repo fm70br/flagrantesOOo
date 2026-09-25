@@ -74,7 +74,7 @@ strLicenca = "* * *     FLAGRANTES - OpenOffice.org     * * *" & chr$(13) & chr$
 "Formulários e biblioteca de macros para confecção automática de Inquéritos Policiais no OpenOffice.org. " & _
 "Os modelos de documentos pertencem a ""Flagrantes Jatinhos"" para MS Word de Escrivão Jorge." & chr$(13) & chr$(13) & _
 "Direitos Autorais Reservados" & chr$(13) & _
-"(c) 2010 Fábio Minami <fminami@gmail.com>" & chr$(13) & chr$(13) & _
+"(c) 2010 Fábio Minami" & chr$(13) & chr$(13) & _
 "Esta biblioteca é Software Livre; você pode redistribuí-la e/ou modificá-la sob os termos da Licença Pública Geral Menor do GNU conforme publicada pela Free Software Foundation; tanto a versão 2.1 da Licença, ou (a seu critério) qualquer versão posterior." & chr$(13) & chr$(13) & _
 "Esta biblioteca é distribuída na expectativa de que seja útil, porém, SEM NENHUMA GARANTIA; nem mesmo a garantia implícita de COMERCIABILIDADE OU ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA. Consulte a Licença Pública Geral Menor do GNU para mais detalhes." & chr$(13) & chr$(13) & _
 "Você deve ter recebido uma cópia da Licença Pública Geral Menor do GNU junto com esta biblioteca; se não, escreva para a Free Software Foundation, Inc., no endereço 59 Temple Street, Suite 330, Boston, MA 02111-1307 USA."
