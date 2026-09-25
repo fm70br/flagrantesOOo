@@ -8,7 +8,7 @@ REM Biblioteca de macros para confecção automática de Inquéritos Policiais e
 REM 
 REM Modelos de documentos pertencem a "Flagrantes Jatinhos" para MS Word de Escrivão Jorge - 9227-0192
 REM 
-REM Direitos Autorais Reservados (c) 2010 Fábio Minami <fminami@gmail.com>
+REM Direitos Autorais Reservados (c) 2010 Fábio Minami
 REM 
 REM Esta biblioteca é Software Livre; você pode redistribuí-la e/ou modificá-la sob os termos da
 REM Licença Pública Geral Menor do GNU conforme publicada pela Free Software Foundation; tanto a
