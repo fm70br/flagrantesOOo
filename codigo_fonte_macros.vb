@@ -2,7 +2,7 @@ REM ****************************************************************************
 REM *****  FLAGRANTES  *****  MACROS PARA OPENOFFICE  *******************************************************
 REM *********************************************************************************************************
 REM
-REM Autor: Fabio Minami <fminami@gmail.com>
+REM Autor: Fabio Minami 
 REM
 REM Biblioteca de macros para confecção automática de Inquéritos Policiais em OpenOffice.org.
 REM 
